@@ -6,7 +6,7 @@ This Flutter project demonstrates how to integrate and use the Random User API t
 
 This project is a starting point for a Flutter application that leverages the Random User API. Follow these instructions to get your project up and running:
 
-- **Clone the Repository**: `git clone <repository-url>`
+- **Clone the Repository**: `git clone https://github.com/Fbayrakci/random-user`
 - **Install Dependencies**: Run `flutter pub get` to install the required packages.
 - **Run the App**: Use `flutter run` to launch the application on your emulator or device.
 
